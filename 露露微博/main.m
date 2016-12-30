@@ -1,4 +1,4 @@
-//
+ //
 //  main.m
 //  露露微博
 //
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
-
+#import "MBProgressHUD+MJ.h"
 int main(int argc, char * argv[]) {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
